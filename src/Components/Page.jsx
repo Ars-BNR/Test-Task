@@ -1,5 +1,5 @@
 import React from "react";
-import cl from "/Page.module.css"
+import cl from "./Page.module.css"
 import { Outlet } from "react-router-dom";
 const Page = () => {
     return (

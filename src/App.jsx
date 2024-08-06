@@ -1,8 +1,8 @@
 import React from 'react'
 import { Route } from "react-router-dom";
 import { Routes } from "react-router-dom";
-import Page from '/Components/Page'
-import UsersTable from '/Components/UsersTable/UsersTable';
+import Page from './Components/Page'
+import UsersTable from './Components/UsersTable/UsersTable';
 
 const App = () => {
   return (

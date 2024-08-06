@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '/Search.module.css'
+import styles from './Search.module.css'
 const Search = ({ sortBy, handleSortChange, handleKeyPress, searchTerm, handleChange }) => {
     const options = [
         { value: "firstName", label: "Имя" },
