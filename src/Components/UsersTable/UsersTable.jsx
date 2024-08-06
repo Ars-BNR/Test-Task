@@ -1,8 +1,8 @@
 import React from 'react'
-import styles from './UsersTable.module.css'
-import Search from '../Search/Search';
-import Modal from '../Modal/Modal';
-import { useUsersTable } from '../../hooks/useUsersTable';
+import styles from '/UsersTable.module.css'
+import Search from '/Search/Search';
+import Modal from '/Modal/Modal';
+import { useUsersTable } from '/hooks/useUsersTable';
 
 const UsersTable = () => {
     const {
